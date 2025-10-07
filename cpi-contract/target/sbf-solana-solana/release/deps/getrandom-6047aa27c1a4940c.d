@@ -1,0 +1,10 @@
+/Users/ayushsingla/Desktop/cpi-solana/cpi-contract/target/sbf-solana-solana/release/deps/libgetrandom-6047aa27c1a4940c.rmeta: /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/Users/ayushsingla/Desktop/cpi-solana/cpi-contract/target/sbf-solana-solana/release/deps/libgetrandom-6047aa27c1a4940c.rlib: /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/Users/ayushsingla/Desktop/cpi-solana/cpi-contract/target/sbf-solana-solana/release/deps/getrandom-6047aa27c1a4940c.d: /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs:
+/Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs:
+/Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs:
+/Users/ayushsingla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs:
