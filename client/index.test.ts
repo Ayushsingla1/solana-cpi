@@ -12,7 +12,7 @@ import {
 test("one transfer", () => {
 	const svm = new LiteSVM();
     const contractPubKey = PublicKey.unique();
-    svm.addProgramFromFile(contractPubKey,"/Users/ayushsingla/Desktop/cpi-solana/target/deploy/cpi_solana.so");
+    svm.addProgramFromFile(contractPubKey,"cpi_solana.so");
 
 	const payer = new Keypair();
 	svm.airdrop(payer.publicKey, BigInt(LAMPORTS_PER_SOL));
