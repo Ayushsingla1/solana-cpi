@@ -14,11 +14,7 @@ pub fn process_instruction(
 
     let instruction = Instruction{
         program_id : *double_account_info.key,
-        accounts : vec![AccountMeta{
-            is_signer : true,
-            is_writable: true,
-            pubkey : *data_account.key
-        }],
+        accounts : vec![AccountMeta{}],
         data : vec![]
     };
 
